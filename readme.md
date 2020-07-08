@@ -3,7 +3,7 @@ One of the projects for Freecodecamp Responsive web design curriculum
 
 >instructions can be found [here](<https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage>)
 ## Getting started
-Clone or download this repository ,run the `portfolio.html` with favourite browser.
+Clone or download this repository ,run the `index.html` with favourite browser.
 ## Preview
 [Demo](<https://mb-fcc-portfolio.netlify.app/>)
 
